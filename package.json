@@ -1,0 +1,14 @@
+{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
